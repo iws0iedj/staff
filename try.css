@@ -1,0 +1,78 @@
+@media (max-width:576px)
+{
+    *{
+        display: block;   
+        padding: 0;
+        margin: 0;
+    }
+    body{
+     
+        height: 100vh;
+        width:100vw ;
+    }
+    .container {
+        display: block;
+       
+    }
+    .titel{
+        text-align: center;
+        font-size: 4px;
+    }
+    span{
+        display: inline;
+    }
+    /* me */
+.me {
+ margin: 15px;
+}
+.me-h2{
+  
+
+}
+.me-h2 > span{
+  margin: 0;
+}
+.me-b{
+margin-top: 8px;
+width: 386px;
+}
+/* momen */
+.momen{
+    margin-top: 25px;
+    margin-left: 215px;
+}
+.momen-h2 > span{
+ 
+}
+
+.momen-h2{
+ 
+}
+.momen-b{
+    margin-top: 5px;
+    width: 386px;
+}
+.ismael{
+    margin-top: 25px;
+}
+.ismael-b{
+    margin-top: 5px;
+    width: 458px;
+}
+.Taha{
+    margin-left: 215px;
+    margin-top: 25px;
+}
+.Taha-b{
+    margin-top: 8px;
+    width: 386px;
+
+}
+.Mohammed{
+    margin-top: 25px;
+
+}
+.Mohammed-b{    
+    margin-top: 8px;
+}
+}
